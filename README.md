@@ -6,6 +6,10 @@ A front-end clone of Amazon's homepage built using HTML5 and CSS3. This project 
 
 The project was developed for learning purposes and demonstrates the implementation of a real-world website design using only HTML and CSS.
 
+## Live Demo
+
+🔗 https://subham-063.github.io/Amazon-UI-UX-Clone/
+
 ## Screenshots
 
 ### Homepage
