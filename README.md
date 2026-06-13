@@ -18,7 +18,7 @@ The project was developed for learning purposes and demonstrates the implementat
 
 ### Footer Section
 
-![Footer](screenhots/homepage3.png)
+![Footer](screeshots/homepage3.png)
 
 ## Features
 
