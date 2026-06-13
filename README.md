@@ -10,15 +10,15 @@ The project was developed for learning purposes and demonstrates the implementat
 
 ### Homepage
 
-![Homepage](screenshots/homepage1.jpg)
+![Homepage](screenshots/homepage1.png)
 
 ### Product Section
 
-![Products](screenshots/homepage2.jpg)
+![Products](screenshots/homepage2.png)
 
 ### Footer Section
 
-![Footer](screenshots/homepage3.jpg)
+![Footer](screenshots/homepage3.png)
 
 ## Features
 
